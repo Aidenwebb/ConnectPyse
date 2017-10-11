@@ -26,4 +26,4 @@ their appropriate sections. Import the API class(es) you want to leverage and th
 ### Installation notes
 The uJSON dependency needs cl.exe to be added to your path. This is a part of Visual Studio
 For VS 2015, add the following folder to PATH C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin
-If you rceive the error "fatal error LNK1158: cannot run 'rc.exe'", add this to PATH: C:\Program Files (x86)\Windows Kits\8.0\bin\x86
+If you receive the error "fatal error LNK1158: cannot run 'rc.exe'", add this to PATH: C:\Program Files (x86)\Windows Kits\8.0\bin\x86
